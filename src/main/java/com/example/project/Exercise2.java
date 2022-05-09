@@ -23,6 +23,6 @@ public class Exercise2 {
 	public Integer getMenorNumeroSaltos(int a []) {
 
 		// TO DO
-		return 3;
+		return -1;
 	}
 }
